@@ -3,10 +3,9 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "site",
+            "Reddit",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["Career", "https://www.reddit.com/user/shubxam/m/career/"]
             ]
         ],
         [
