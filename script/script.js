@@ -5,7 +5,10 @@ const Config = {
         [
             "Reddit",
             [
-                ["Career", "https://www.reddit.com/user/shubxam/m/career/"]
+                ["m/career", "https://www.reddit.com/user/shubxam/m/career/"],
+                ["m/IndiaFocused", "https://www.reddit.com/user/shubxam/m/indiafocused/"],
+                ["m/memes", "https://www.reddit.com/user/shubxam/m/memes/"],
+                ["m/feelgood", "https://www.reddit.com/user/shubxam/m/feelgood/"]
             ]
         ],
         [
